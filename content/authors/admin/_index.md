@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 周继玲
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jiling Zhou
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jiling
+last_name: Zhou
 
 # Status emoji
 status:
@@ -17,28 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MsC Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Exeter
+    url: https://www.exeter.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include Cyber Security with Data Science, Data Security and Privacy Protection, Applied AI in Privacy Security Tooling, Applied Mathematics in Cyber Security
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Privavy Security
+  - Applied Mathematics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: MSc. in Cyber Security Analytics (with Merit)
+      institution: University of Exeter, UK
+      year: 2023
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
