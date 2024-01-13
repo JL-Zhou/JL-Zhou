@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '../publication/1masterthesis/final_report_v4.pdf'
+url_pdf: 'https://jl-zhou.github.io/JL-Zhou/publication/1masterthesis/final_report_v4.pdf' 
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
