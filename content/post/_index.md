@@ -1,6 +1,6 @@
----
+<!-- ---
 title: Posts
-cms_exclude: true
+cms_exclude: True
 
 # View.
 #   1 = List
@@ -12,4 +12,4 @@ view: 2
 header:
   caption: ''
   image: ''
----
+--- -->

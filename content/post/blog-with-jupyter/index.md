@@ -1,17 +1,17 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: Hello world!
+date: '2023-12-28'
+summary: First post!
 ---
 
 
-```python
+<!-- ```python
 from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+``` -->
 
     
-![png](output_1_0.png)
+# ![png](output_1_0.png)
     
 
 ```python
